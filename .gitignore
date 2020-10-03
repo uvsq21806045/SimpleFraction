@@ -1,5 +1,9 @@
 # Compiled class file
 *.class
 
+# Files
+Fraction/Fraction.iml
+Fraction/.idea
+
 # Repositories
 Fraction/out
